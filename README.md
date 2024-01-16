@@ -1,2 +1,1 @@
-# amazon-mountain-view-ai-and-data-science
-[AI] Amazon
+![Uploading Amazon_logo.svg.png…]()
